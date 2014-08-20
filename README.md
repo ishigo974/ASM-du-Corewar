@@ -1,6 +1,4 @@
-ASM-du-Corewar
-==============
+Corewar
+=======
 
-Partie ASM du Corewar realisee avec kwyne (lopes_n)
-
-Note : 9/10
+Groupe du projet Corewar : Simon (vadee_s), Aurélien (girard_r), Kévin (lopes_n), Maxime (menigo_m)
