@@ -1,4 +1,8 @@
 Corewar
 =======
 
-Groupe du projet Corewar : Simon (vadee_s), Aurélien (girard_r), Kévin (lopes_n), Maxime (menigo_m)
+ASM du Corewar
+
+Partenaire : kwyne (lopes_n)
+
+Note : 9/10
